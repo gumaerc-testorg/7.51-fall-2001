@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 53498761-9184-eda3-7938-26b8c919f0f9
 resourcetype: Document
 title: fa01lec07.pdf
 uid: c7192d3d-b5bf-2ca1-6ea2-b691de14fd86
