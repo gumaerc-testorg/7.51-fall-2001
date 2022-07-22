@@ -5,6 +5,7 @@ file: /courses/7-51-graduate-biochemistry-fall-2001/5c948f3670e42a2ae3a545b74143
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: fa01lec06.pdf
 uid: 5c948f36-70e4-2a2a-e3a5-45b74143630e
 ---
 Review of Chemical Thermodynamics
-

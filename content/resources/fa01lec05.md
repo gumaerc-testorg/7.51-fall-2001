@@ -5,6 +5,7 @@ file: /courses/7-51-graduate-biochemistry-fall-2001/242133c8c4fef8c67ba1d27749cd
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: fa01lec05.pdf
 uid: 242133c8-c4fe-f8c6-7ba1-d27749cdc09a
 ---
 CKS Tutorial [Chemical Kinetics Simulator 1.01]
-

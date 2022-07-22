@@ -5,6 +5,7 @@ file: /courses/7-51-graduate-biochemistry-fall-2001/c7192d3db5bf2ca16ea2b691de14
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: fa01lec07.pdf
 uid: c7192d3d-b5bf-2ca1-6ea2-b691de14fd86
 ---
 Review of Chemical Equilibrium
-
