@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: CKS Tutorial [Chemical Kinetics Simulator 1.01]
-file: /ol-ocw-studio-app/courses/7-51-graduate-biochemistry-fall-2001/242133c8c4fef8c67ba1d27749cdc09a_fa01lec05.pdf
+file: /courses/7-51-graduate-biochemistry-fall-2001/242133c8c4fef8c67ba1d27749cdc09a_fa01lec05.pdf
 file_size: 152986
 file_type: application/pdf
 learning_resource_types:
