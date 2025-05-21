@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Obtaining CKS (TM) (Chemical Kinetics Simulator 1.01)
-file: /ol-ocw-studio-app/courses/7-51-graduate-biochemistry-fall-2001/dcb2f9d05c13c541c045272d183dcce9_fa01lec04.pdf
+file: /courses/7-51-graduate-biochemistry-fall-2001/dcb2f9d05c13c541c045272d183dcce9_fa01lec04.pdf
 file_size: 9455
 file_type: application/pdf
 learning_resource_types:
