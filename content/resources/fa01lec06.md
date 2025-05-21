@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Review of Chemical Thermodynamics
-file: /ol-ocw-studio-app/courses/7-51-graduate-biochemistry-fall-2001/5c948f3670e42a2ae3a545b74143630e_fa01lec06.pdf
+file: /courses/7-51-graduate-biochemistry-fall-2001/5c948f3670e42a2ae3a545b74143630e_fa01lec06.pdf
 file_size: 38047
 file_type: application/pdf
 learning_resource_types:

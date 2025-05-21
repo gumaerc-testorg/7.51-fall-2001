@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: The Major Concepts
-file: /ol-ocw-studio-app/courses/7-51-graduate-biochemistry-fall-2001/395fa40df3d6968ceaa618e63f440088_fa01lec01.pdf
+file: /courses/7-51-graduate-biochemistry-fall-2001/395fa40df3d6968ceaa618e63f440088_fa01lec01.pdf
 file_size: 7968
 file_type: application/pdf
 learning_resource_types:
