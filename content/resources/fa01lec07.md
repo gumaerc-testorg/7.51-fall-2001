@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Review of Chemical Equilibrium
-file: /courses/7-51-graduate-biochemistry-fall-2001/c7192d3db5bf2ca16ea2b691de14fd86_fa01lec07.pdf
+file: /ol-ocw-studio-app/courses/7-51-graduate-biochemistry-fall-2001/c7192d3db5bf2ca16ea2b691de14fd86_fa01lec07.pdf
 file_size: 67514
 file_type: application/pdf
 learning_resource_types:

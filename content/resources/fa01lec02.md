@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Review of Chemical Kinetics
-file: /courses/7-51-graduate-biochemistry-fall-2001/9cce195a20542db34ab1d7195f12a724_fa01lec02.pdf
+file: /ol-ocw-studio-app/courses/7-51-graduate-biochemistry-fall-2001/9cce195a20542db34ab1d7195f12a724_fa01lec02.pdf
 file_size: 114534
 file_type: application/pdf
 learning_resource_types:
