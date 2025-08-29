@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Molecular Graphics (RasMol) [and PDB files]
-file: /courses/7-51-graduate-biochemistry-fall-2001/da0c92eb352ca4d2001880543bc345f9_fa01lec03.pdf
+file: /ol-ocw-studio-app/courses/7-51-graduate-biochemistry-fall-2001/da0c92eb352ca4d2001880543bc345f9_fa01lec03.pdf
 file_size: 5350
 file_type: application/pdf
 learning_resource_types:
